@@ -5,12 +5,12 @@
 
 ## Components
 
-The solution consists of several components, the most used being:
+The solution consists of several components, all of which can be found in [verder-helpen](https://github.com/verder-helpen/verder-helpen), the most used being:
 - `core`
 - `auth-digid`
 - `comm-common`
 
-Together, these components enable the full functionality of Verder Helpen. Comm-common can be integrated into any communications platform, and is already being used by WeSeeDo, Livecom, Messagebird (previously 24sessions) and more. DigiD is the Dutch standard for citizens to login with government. Other authentication options offered are:
+Together, these components enable the full functionality of Verder Helpen. Comm-common can be integrated into any communications platform, and is already being used by WeSeeDo, T:meblockr, Livecom, Messagebird (previously 24sessions) and more. DigiD is the Dutch standard for citizens to login with government. Other authentication options offered are:
 - `auth-yivi`
 
 The components `auth-test` and `comm-test` are placeholder components, used to test the solution without live systems.
